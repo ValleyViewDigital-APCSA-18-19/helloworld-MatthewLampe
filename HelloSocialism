@@ -1,0 +1,10 @@
+package helloViktor;
+
+public class helloviktor 
+{
+	public static void main (String[] args)
+	{
+	
+	System.out.println("capitalism is only Socialism in the hands of the people. Socialism is the true exhibition of equality and governmental power.");
+	}
+}
